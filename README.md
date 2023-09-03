@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/C5616AQGVRJmNEtuPRQ/profile-displaybackgroundimage-shrink_350_1400/0/1640627860252?e=1698883200&v=beta&t=xcQ0RwmXydHiCt3UUmabAP6SHk1ZubjzzdwYqP5UNIE)
 <h1 align="center">Hi 👋, I'm Satnam Singh</h1>
-<h3 align="center">An Android Developer capable of converting ideas into real world applications.</h3>
+<h3 align="center">An Android Developer capable of converting ideas into real-world applications.</h3>
 
 <img align="right" width="400" src="https://developer.android.com/static/images/mad/mad-header.gif">
 
